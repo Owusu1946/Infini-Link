@@ -11,14 +11,26 @@ Master the art of building a real-time Messenger clone using the latest web deve
 
 Key Features:
 
-Next.js 13 framework using App Router for efficient routing and dynamic page rendering
-React for creating reusable components
-TailwindCSS and Headless UI for modern and sleek design
-Prisma and MongoDB for a robust and scalable database solution
-NextAuth for secure authentication and social logins with Google and Github
-Real-time messaging and notifications using Pusher
-Efficient form handling with react-hook-form
-Throughout this tutorial, you'll gain hands-on experience in building a state-of-the-art chat application from scratch. We'll cover everything from setting up Next.js 13 and React to managing authentication with NextAuth and social logins. We'll also dive into using TailwindCSS and Headless UI to create an eye-catching design, while exploring real-time messaging and notifications with Pusher.
+- Real-time messaging using Pusher
+- Message notifications and alerts
+- Tailwind design for sleek UI
+- Tailwind animations and transition effects
+- Full responsiveness for all devices
+- Credential authentication with NextAuth
+- Google authentication integration
+- Github authentication integration
+- File and image upload using Cloudinary CDN
+- Client form validation and handling using react-hook-form
+- Server error handling with react-toast
+- Message read receipts
+- Online/offline user status
+- Group chats and one-on-one messaging
+- Message attachments and file sharing
+- User profile customization and settings
+- How to write POST, GET, and DELETE routes in route handlers (app/api)
+- How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
+- Handling relations between Server and Child components in a real-time environment
+- Creating and managing chat rooms and channels
 
 Whether you're an experienced developer looking to expand your skillset or a beginner eager to learn the latest web development technologies, this tutorial has something for everyone. Join us on this exciting journey and take your web development skills to new heights!
 
