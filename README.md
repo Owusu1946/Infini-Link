@@ -1,11 +1,11 @@
-# Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
+# Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
 
-![Copy of Fullstack Twitter Clone (8)](https://user-images.githubusercontent.com/23248726/229031522-64a49ad0-66f7-4ea8-94a8-f64a0bb56736.png)
+![Copy of Copy of Fullstack Twitter Clone (1)](https://user-images.githubusercontent.com/23248726/236631198-90414da5-ee43-46a9-8898-70b003bcd83d.png)
 
 
-This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
+This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
-[VIDEO TUTORIAL](https://youtu.be/c_-b_isI4vg)
+[VIDEO TUTORIAL](https://www.youtube.com/watch?v=PGPGcKBpAk8)
 
 Master the art of building a real-time Messenger clone using the latest web development technologies. In this comprehensive tutorial, we'll walk you through the process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
 
