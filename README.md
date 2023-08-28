@@ -1,11 +1,11 @@
-# Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
+# Real-Time Chat App Like Messenger: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
 
 ![Copy of Copy of Fullstack Twitter Clone (1)](https://user-images.githubusercontent.com/23248726/236631198-90414da5-ee43-46a9-8898-70b003bcd83d.png)
 
 
 This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=PGPGcKBpAk8)
+[VIDEO TUTORIAL](https://www.youtube.com)
 
 Master the art of building a real-time Messenger clone using the latest web development technologies. In this comprehensive tutorial, we'll walk you through the process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
 
@@ -52,7 +52,7 @@ git clone https://github.com/Owusu1946/Infini-Link.git
 npm i
 ```
 
-### Setup .env file
+### Setup .env file: Replace all .env API with yours
 
 
 ```js
